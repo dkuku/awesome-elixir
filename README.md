@@ -1797,6 +1797,7 @@ Various resources, such as books, websites and articles, for improving your Elix
 * [LearnElixir.tv](https://www.learnelixir.tv/) - Beginner friendly, in-depth, step by step screencasts.
 * [LearnPhoenix.tv](https://www.learnphoenix.tv/) - Learn how to build fast, dependable web apps with Phoenix.
 * [Meet Elixir](https://www.pluralsight.com/courses/meet-elixir) - Walk through some features and concepts of Elixir by José Valim.
+[José Valim on Twitch](https://www.twitch.tv/videos/346878678?filter=all&sort=time) - Screencasts of solving Advent of Code 2018 with great tips. 
 
 ## Styleguides
 *Styleguides for ensuring consistency while coding.*
